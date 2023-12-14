@@ -1,0 +1,6 @@
+Language,Files,Lines,Functions,Function Max,Function Min,Functions Avg.,Functions Med.
+C,11,1688,37,124,2,20.14,10.0
+Cpp,1334,208135,11654,321,0,12.69,5.0
+Header,1520,137552,0,-10000,10000,0.0,0.0
+Java,8,203,6,24,2,11.0,13.0
+Python,0,0,0,-10000,10000,0.0,0.0
